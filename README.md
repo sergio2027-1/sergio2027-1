@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Header Banner -->
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=MMaffi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=S%C3%A9rgio&textBg=false&fontColor=%235E5E5E&fontSize=70&fontAlign=50&fontAlignY=50&animation=blink&rotate=0&stroke=%232CA7CE&strokeWidth=29&descSize=20&descAlign=50&descAlignY=60)" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=S%C3%A9rgio&textBg=false&fontColor=%235E5E5E&fontSize=70&fontAlign=50&fontAlignY=50&animation=blink&rotate=0&stroke=%232CA7CE&strokeWidth=29&descSize=20&descAlign=50&descAlignY=60" />
 
 
 <!--
